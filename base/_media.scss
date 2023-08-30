@@ -1,0 +1,30 @@
+
+
+@media screen and (max-width: 768px) {
+    .container {
+      opacity: 0;
+      height:10%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .site-header {
+      display: none;
+    }
+
+  }
+
+//   /* Normal styles for light mode */
+// .container {
+//     /* ... */
+//     background-color: white;
+//     color: black;
+// }
+
+// /* Dark mode styles */
+// @media (prefers-color-scheme: dark) {
+//     .container {
+//         background-color: black;
+//         color: white;
+//     }
+// }
