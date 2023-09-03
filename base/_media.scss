@@ -5,6 +5,9 @@
       opacity: 0;
       height:10%;
     }
+    footer{
+
+    }
   }
 
   @media screen and (max-width: 768px) {
@@ -14,17 +17,21 @@
 
   }
 
-//   /* Normal styles for light mode */
-// .container {
-//     /* ... */
-//     background-color: white;
-//     color: black;
-// }
+
+.body {
+
+    background-color: white;
+    color: black;
+}
 
 // /* Dark mode styles */
 // @media (prefers-color-scheme: dark) {
-//     .container {
+//     body {
 //         background-color: black;
 //         color: white;
+//         a{
+//             color:black;
+//         }
 //     }
 // }
+
